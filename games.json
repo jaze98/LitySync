@@ -4,13 +4,13 @@
       "title": "PUBG GLOBAL",
       "package": "com.tencent.ig",
       "version": "3.6.0",
-      "status": "Safe"
+      "status": "unsafe"
     },
     {
       "title": "PUBG KOREA",
       "package": "com.pubg.krmobile",
       "version": "3.6.0",
-      "status": "unsafe"
+      "status": "safe"
     },
     {
       "title": "PUBG VIETNAM",
